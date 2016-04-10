@@ -1,0 +1,3 @@
+Out of stock books:
+Book [idBook=4, title=Poezii, author=Mihai Eminescu, genre=Poezie, quantity=0, price=15.0]
+Book [idBook=3, title=Singur pe lume, author=Hector Mallot, genre=Novel, quantity=0, price=10.0]
